@@ -1,0 +1,40 @@
+{
+  "states": [
+    {
+      "name": "Andhra Pradesh",
+      "districts": ["Anantapur", "Chittoor", "East Godavari", "Guntur", "Krishna", "Kurnool", "Prakasam", "Srikakulam", "Visakhapatnam", "Vijayawada", "West Godavari", "Y.S.R. Kadapa"]
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "districts": ["Tawang", "West Kameng", "East Kameng", "Papum Pare", "Upper Subansiri", "Lower Subansiri", "Kokrajhar", "West Siang", "East Siang", "Upper Siang", "Lower Siang", "Sarang", "Siang", "Lohit", "Namsai", "Changlang", "Tirap", "Longding", "Anjaw", "Kamle"]
+    },
+    {
+      "name": "Assam",
+      "districts": ["Baksa", "Barpeta", "Biswanath", "Bongaigaon", "Cachar", "Charaideo", "Darrang", "Dhemaji", "Dhubri", "Dibrugarh", "Goalpara", "Golakganj", "Hailakandi", "Jorhat", "Kamrup", "Kamrup Metropolitan", "Karbi Anglong", "Lakhimpur", "Majuli", "Morigaon", "Nagaon", "Sivasagar", "Sonitpur", "South Salmara-Mankachar", "Tinsukia", "Udalguri", "West Karbi Anglong"]
+    },
+    {
+      "name": "Bihar",
+      "districts": ["Araria", "Arwal", "Aurangabad", "Banka", "Begusarai", "Bhagalpur", "Bhojpur", "Buxar", "Darbhanga", "East Champaran", "Gaya", "Gopalganj", "Jamui", "Jehanabad", "Kaimur", "Katihar", "Khagaria", "Kishanganj"]
+    },
+    {
+      "name": "Chandigarh",
+      "districts": ["Chandigarh"]
+    },
+    {
+      "name": "Delhi",
+      "districts": ["Central Delhi", "North Delhi", "North East Delhi", "North West Delhi", "South Delhi", "South East Delhi", "South West Delhi", "West Delhi", "East Delhi"]
+    },
+    {
+      "name": "Puducherry",
+      "districts": ["Karaikal", "Mahe", "Puducherry", "Yanam"]
+    },
+    {
+      "name": "Jammu & Kashmir",
+      "districts": ["Anantnag", "Bandipore", "Baramulla", "Budgam", "Doda", "Ganderbal", "Jammu", "Kargil", "Kathua", "Kishtwar", "Kulgam", "Kupwara", "Poonch", "Pulwama", "Rajouri", "Ramban", "Reasi", "Samba", "Srinagar", "Udhampur"]
+    },
+    {
+      "name": "Ladakh",
+      "districts": ["Leh", "Kargil"]
+    }
+  ]
+}
